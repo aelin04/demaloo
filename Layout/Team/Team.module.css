@@ -1,0 +1,16 @@
+.team {
+    background: #27282C;
+    margin: 0 auto;
+    padding: 113px 80px 293px 80px;
+}
+
+.teammates{
+    display: flex;
+}
+
+.teammates::after{
+    content: "";
+    height: 352px;
+    width: 1px;
+    background: #FFFFFF;
+}

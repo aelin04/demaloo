@@ -1,0 +1,41 @@
+.partners {
+    /* max-width: 1380px; */
+    width: 100%;
+    /* border-radius: 16px; */
+    margin: 0 auto;
+    background: #ffffff no-repeat center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 24px 0;
+}
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.border {
+    content: "";
+    height: 3px !important;
+    width: 100px;
+    margin-top: 30px;
+    background: #000000;
+}
+
+.logos {
+    max-width: 910px;
+    width: 100%;
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sce{
+    width: 330px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,47 @@
+.projects {
+  max-width: 1380px;
+  width: 100%;
+  margin: 0 auto;
+  color: #FFFFFF;
+  padding: 238px 0 253px 80px; 
+  display: flex;
+}
+
+.info h2{
+  padding-bottom: 38px;
+}
+.info p {
+  padding-bottom: 70px;
+}
+.info a {
+  font-size: 16px;
+}
+
+.seeMore {
+  padding-right: 18px;
+}
+
+.nav {
+  list-style: none;
+  margin-left: 278px;
+}
+.li {
+  cursor: pointer;
+  padding-top: 38px;
+  transition: 800ms cubic-bezier(0.075, 0.82, 0.165, 1);
+  -webkit-transition: 800ms cubic-bezier(0.075, 0.82, 0.165, 1);
+    -moz-transition: 800ms cubic-bezier(0.075, 0.82, 0.165, 1); 
+    -o-transition: 800ms cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+.li:first-child{
+  padding-top: 0;
+}
+
+.li h5 {
+  padding-left: 75px;
+}
+
+.li:hover{
+  transform: translateX(-50px) translateY(-10px);
+  
+}

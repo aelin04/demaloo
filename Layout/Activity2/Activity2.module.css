@@ -1,0 +1,80 @@
+.activity {
+    position: relative;
+    padding: 110px 80px 163px;
+}
+
+.div {
+   
+    display: flex;
+}
+
+.ecosystem__info {
+    padding: 70px 131px 93px 84px;
+}
+
+.ecosystem__info h4 {
+    margin: 50px 0 30px 0;
+}
+
+.ecosystem__info button {
+    margin-top: 30px;
+}
+
+.ecosystem__bottom {
+    display: flex;
+}
+
+.pagination {
+    margin-right: 84px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.pagination span {
+    margin: 20px 0;
+    background: #C4C4C4;
+    border-radius: 60px;
+    width: 20px;
+    height: 20px;
+}
+
+.pagination::before {
+    content: "";
+    background: #A9BCFF;
+    ;
+    border-radius: 60px;
+    width: 20px;
+    height: 20px;
+}
+
+.pagination::after {
+    content: "";
+    background: #C4C4C4;
+    border-radius: 60px;
+    width: 20px;
+    height: 20px;
+}
+
+
+
+.img {
+    
+    margin-top: 44px;
+    max-width: 467px;
+    width: 100%;
+    max-height: 583px;
+    height: 100%;
+    border-radius: 8px;
+    border: 1px solid #000000;
+    padding: 12px;
+}
+
+.gray__background {
+    bottom: 120px;
+    right: 480px;
+    position: absolute;
+    background: rgba(196, 196, 196, 0.3);
+    width: 250px;
+    height: 335px;
+}

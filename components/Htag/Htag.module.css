@@ -1,0 +1,53 @@
+.h1 {
+    font-family: 'Gilroy-Medium', serif;
+    padding: 0;
+    margin: 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 50px;
+}
+
+.h2 {
+    font-family: 'Gilroy-Regular', sans-serif;
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 50px;
+
+}
+
+.h3 {
+    font-family: 'Gilroy-Regular', sans-serif;
+    padding: 0;
+    margin: 0;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 46px;
+}
+
+.h4 {
+    font-family: 'Gilroy-Regular', sans-serif;
+    padding: 0;
+    margin: 0;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 22px;
+}
+
+.h5{
+    font-family: 'Gilroy-Regular', sans-serif;
+    padding: 0;
+    margin: 0;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 15px;
+}
+.black {
+    color: #343434;
+}
+
+.white {
+    color: #FFFFFF;
+}

@@ -1,0 +1,36 @@
+.p {
+    font-family: 'Gilroy-Regular', sans-serif;
+    font-weight: normal;
+    color: #D5D5D5;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    max-width: 490px;
+    width: 100%;
+}
+
+.l {
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.m {
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.s {
+    font-size: 18px;
+    line-height: 29px;
+}
+
+.xs {
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.black {
+    color: #343434;
+}
+
+.white {
+    color: #FFFFFF;
+}

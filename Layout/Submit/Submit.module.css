@@ -1,0 +1,29 @@
+.submit {
+    color: #FFFFFF;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    padding: 150px 0;
+}
+
+.FIO {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.FIO:last-child {
+    margin-bottom: 0;
+}
+
+.FIO span {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    margin-bottom: 8px;
+}
+
+.submit__info {
+    padding-top: 16px;
+    margin-left: 68px;
+}

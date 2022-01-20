@@ -1,0 +1,103 @@
+.footer {
+    color: #ffffff;
+    font-family: 'Gilroy-Regular', sans-serif;
+
+}
+
+.container {
+    padding: 28px 80px 44px;
+}
+
+.contacts {
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contacts img {
+    cursor: pointer;
+}
+
+.contacts__info {
+    display: flex;
+}
+
+.span {
+    cursor: pointer;
+    margin-left: 65px;
+    display: flex;
+    align-items: center;
+}
+
+.span span {
+    margin-left: 10px;
+}
+
+.contacts__info span:first-child {
+    margin-left: 0;
+}
+
+.email {
+    text-decoration-line: underline;
+}
+
+.nav {
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    list-style: none;
+
+}
+
+.nav li {
+    cursor: pointer;
+    margin-right: 47px;
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease;
+    -moz-transition: 0.4s ease;
+    -o-transition: 0.4s ease;
+}
+
+.nav li:hover {
+    color: #1882FF;
+}
+
+.nav li:last-child {
+    margin-right: 0;
+}
+
+.bottom {
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.law {
+    display: flex;
+    align-items: center;
+}
+
+.law span {
+    margin-left: 10px;
+}
+
+.icons {
+
+    display: flex;
+}
+
+.icon {
+    cursor: pointer;
+    margin-right: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    background: #FFFFFF;
+}
+
+.icon:last-child {
+    margin-right: 0;
+}
